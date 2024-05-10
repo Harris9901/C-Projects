@@ -1,0 +1,9 @@
+var BST b
+insert b 10
+insert b 20
+insert b 30
+insert b 7
+remove b 30
+inorder b
+delete b
+#
